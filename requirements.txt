@@ -1,5 +1,5 @@
 streamlit
-trimesh[all]
+pyvista
+trimesh
 numpy
-scipy
-rtree
+Pillow
